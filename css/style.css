@@ -1,11 +1,29 @@
+body {
+  color: #fff;
+}
 html,
 body,
 header,
 .view {
-  height: 100%;
+  height: 90vh;
+}
+.page-footer {
+  height: 10vh;
 }
 .btn {
   border-radius: 20px;
+}
+.form-control {
+  color: #fff !important;
+}
+.md-form {
+  color: #fff;
+}
+::placeholder {
+  color: #fff !important;
+}
+.footer {
+  background-color: #4527a0 !important;
 }
 /* .wow {
   visibility: hidden;
