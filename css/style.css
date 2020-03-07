@@ -1,0 +1,12 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+.btn {
+  border-radius: 20px;
+}
+/* .wow {
+  visibility: hidden;
+} */
