@@ -1,5 +1,5 @@
 body {
-  color: #fff;
+  background-color: #4527a0 !important;
 }
 html,
 body,
@@ -9,6 +9,10 @@ header,
 }
 .page-footer {
   height: 10vh;
+}
+.page-footer-userp {
+  height: 5vh;
+  color: #fff;
 }
 .btn {
   border-radius: 20px;
@@ -22,9 +26,37 @@ header,
 ::placeholder {
   color: #fff !important;
 }
+*/*.nav-link {
+  display: block;
+  position: relative;
+}
+.nav-link:hover {
+  display: block;
+  position: relative;
+  border-bottom: 1px solid #FFF;
+}*/
 .footer {
   background-color: #4527a0 !important;
 }
+.navbar {
+  background-color: #4527a0 !important;
+}
+.card {
+  background-color: #4527a0 !important;
+  border: 1px solid #fff;
+  color: #fff;
+  font-weight: bold;
+}
+.card:hover {
+  background-color: #fff !important;
+  border: 1px solid #4527a0 !important;
+  color: #4527a0 !important;
+  font-weight: bold
+}
+.center {
+  text-align: center;
+
+} 
 /* .wow {
   visibility: hidden;
 } */
