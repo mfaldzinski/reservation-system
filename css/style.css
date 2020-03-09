@@ -35,6 +35,9 @@ header,
   position: relative;
   border-bottom: 1px solid #FFF;
 }*/
+.col {
+  color: #FFF;
+}
 .footer {
   background-color: #4527a0 !important;
 }
